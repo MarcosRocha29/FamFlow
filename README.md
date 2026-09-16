@@ -1,6 +1,6 @@
 # FamFlow
 
-**FamFlow** is a Python-based workflow for organizing and optimizing the construction of protein domain HMM models.
+**FamFlow** is a solution for optimizing, rather than automating, the serial construction of HMM models by integrating ROTIFER functions into a common workflow for processing multiple protein domains.
 
 The project integrates functions from the **ROTIFER** ecosystem to apply sequence-processing and alignment steps consistently across multiple protein domains. The aim is to reduce repetitive manual operations while keeping the biological decisions involved in model construction under the user's control.
 
